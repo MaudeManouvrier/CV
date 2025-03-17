@@ -1,5 +1,18 @@
 # Maude Manouvrier - CV
+
 I am an Associate Professor of Computer Science since September 2000 at [PSL Research University - Université Paris-Dauphine](https://dauphine.psl.eu/) and a researcher at [LAMSADE](https://www.lamsade.dauphine.fr/).
+
 ## Education
 
-a Ph.D. in Computer Science in 2000 and her Post Doctoral Degree (Habilitation à diriger des recherches in french) in 2016. From 1998 to 2003, she has been working in an international CNRS—CONICIT cooperation with the Universidad Central de Venezuela (UCV), and from 2008 to 2012, in an international CNRS—FONACIT cooperation with the Universidad Simon Bolivar (USB – Caracas –Venezuela). She was reviewer or member of program committee of several International Conferences and Journals (ICSOC, IoTBD, FiCloud). She published about 30 papers in international journals and conferences. Her past research interests focused on Spatio-Temporal and Multimedia Databases, Access Methods and Indexing Structures, Content-Based Image Retrieval and (Micro)Service Composition. She is currently working on Knolwedge Graph, supervising a thesis on dynamic population of ontologies using reinforcement learning.
+* Ph.D. in Computer Science in 2000
+* Post Doctoral Degree (Habilitation à diriger des recherches in french) in 2016.
+
+## Research area
+My past research interests focused on Spatio-Temporal and Multimedia Databases, Access Methods and Indexing Structures, Content-Based Image Retrieval and (Micro)Service Composition. I am currently working on Knolwedge Graph, supervising a thesis on dynamic population of ontologies using reinforcement learning.
+
+## Publications
+* [DBLP](https://dblp.org/pid/m/MaudeManouvrier.html)
+* [Google Scholar](https://scholar.google.com/citations?user=swkhFZcAAAAJ&hl=fr)
+* https://www.lamsade.dauphine.fr/en/people/detail-cv/profile/maude-manouvrier.html
+
+  
